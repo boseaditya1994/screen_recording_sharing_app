@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Aditya-Bose-s-workspace-i2bge8.ap-southeast-2.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
